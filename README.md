@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/abhijitdeepa/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-## Hello , this is Abhijit Deepa Pramod ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello , this is Abhijit Deepa Pramod !<a href="https://github.com/abhijitdeepa/"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></a>
 
 - 👋 Hi, I’m @abhijitdeepa
 - 👀 I’m interested in UI/UX and Mobile apps
