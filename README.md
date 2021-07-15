@@ -6,5 +6,4 @@
 - 👀 I’m interested in Pure CSS and Python.
 - 🌎 I'm a student at Seneca College, Toronto.
 - 🌱 I’m currently learning Web scraping.
-- 💞️ I’m looking to collaborate on Open Source Mobile Apps 
 <p align="center"><a href="https://github.com/abhijitdeepa/"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
