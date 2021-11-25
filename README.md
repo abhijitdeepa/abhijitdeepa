@@ -2,7 +2,7 @@
 
 ## Hello , this is Abhijit Deepa Pramod !<a href="https://github.com/abhijitdeepa/"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></a>
 
-- 👋 Hi, I’m @abhijitdeepa
+## _- 👋 Hi, I’m @abhijitdeepa_
 - 👀 I’m interested in Pure Math and Python.
 - 🌎 I'm a student at Seneca College, Toronto.
 - 🌱 I’m currently learning Discrete Math and Web scraping.
