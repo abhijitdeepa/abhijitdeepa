@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in C++ and Python.
 - 🌎 I'm a student at Seneca College, Toronto.
-- 😁Planning to build my new startup
+- 😁Planning to build my new startup (need to start working on some web dev stuff for that)
 
 
 <p align="center"><a href="https://github.com/abhijitdeepa/"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
