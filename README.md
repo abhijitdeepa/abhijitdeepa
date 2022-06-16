@@ -35,7 +35,7 @@
 ![CLion](https://img.shields.io/badge/CLion-3333FF?style=for-the-badge&logo=clion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-43853D?style=for-the-badge&logo=vim&logoColor=white)
-![IntelliJ_Idea](https://img.shields.io/badge/Intellij_Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![IntelliJ_Idea](https://img.shields.io/badge/Intellij_Idea-E34F26?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![XCode](https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
